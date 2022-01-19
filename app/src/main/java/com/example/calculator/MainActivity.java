@@ -155,7 +155,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     operation.setText(String.format("%s", x - y));
                     break;
 
-                case 'x':
+                case '*':
                     operation.setText(String.format("%s", x * y));
                     break;
 
